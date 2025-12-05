@@ -12,4 +12,4 @@ _SCHOOL MANAGEMENT_
   > level 12
 - item 1
   - sub item 
-i use the <h1> tag to
+i use the \<h1>\ tag to
