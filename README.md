@@ -13,3 +13,9 @@ _SCHOOL MANAGEMENT_
 - item 1
   - sub item 
 i use the `<h1>` tag to
+```cmd
+git clone <url>
+```
+``` javascript
+console.log ( "Hello")
+```
