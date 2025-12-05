@@ -17,5 +17,5 @@ i use the `<h1>` tag to
 git clone <url>
 ```
 ``` javascript
-console.log ("Hello")
+console.log("Hello")
 ```
