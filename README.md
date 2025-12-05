@@ -4,4 +4,4 @@
 ####  Heading 4  
 #####  Heading 5  
 ###### Heading 6  
-SCHOOL MANAGEMENT _ITALIC_
+_SCHOOL MANAGEMENT_
